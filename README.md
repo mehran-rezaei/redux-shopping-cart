@@ -1,5 +1,5 @@
 # redux-shopping-cart
-Redux Shopping Cart ( use redux and tailwind )
+Redux Shopping Cart ( use Redux and tailwind )
 
 
 # Screenshots
